@@ -69,6 +69,10 @@ a.active,a:hover{
   }
 }
 @media (max-width: 858px){
+  label.logo {
+    padding: 0 20px;
+  }
+
   .checkbtn{
     display: block;
     
